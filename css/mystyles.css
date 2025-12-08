@@ -1,0 +1,13 @@
+body{
+    font-family: 'comic sans ms', cursive, sans-serif;
+    background-color: rgb(49, 174, 193);
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'comic sans ms', cursive, sans-serif;
+}
+a{
+    font-family: 'comic sans ms', cursive, sans-serif;
+}
+.csfont{
+    font-family: 'comic sans ms', cursive, sans-serif !important;
+}
